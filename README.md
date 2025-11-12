@@ -18,13 +18,7 @@ El proyecto está desarrollado en **Java con Spring Boot**, utilizando **H2** co
 
 ---
 
-## 🚀 Instrucciones para clonar y ejecutar
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/TU_USUARIO/productos-api.git
-
-Endpoints:
+## Endpoints:
 | Método | Ruta              | Descripción                      |
 | ------ | ----------------- | -------------------------------- |
 | GET    | `/productos`      | Listar todos los productos       |
@@ -32,3 +26,10 @@ Endpoints:
 | POST   | `/productos`      | Crear un nuevo producto          |
 | PUT    | `/productos/{id}` | Actualizar un producto existente |
 | DELETE | `/productos/{id}` | Eliminar un producto por ID      |
+## 🚀 Instrucciones para clonar y ejecutar
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/TU_USUARIO/productos-api.git
+
+
